@@ -1,5 +1,6 @@
 # Statistik_Projektarbeit
-Projektabschlussarbeit Statistik Kurs.
+Projektabschlussarbeit Statistik Kurs. <br/>
+Angefertigt in R.
 
 ## Aufgabenstellung:
 
