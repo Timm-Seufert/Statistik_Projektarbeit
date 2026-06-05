@@ -20,7 +20,7 @@ Untersuchen Sie das vorliegende Material und beantworten Sie dem
 Unternehmen einige Fragen.
 
 1_Lieferantenbeurteilung
-Im Rahmen der Lieferantenreduzierung sollen drei
+/tIm Rahmen der Lieferantenreduzierung sollen drei
 Lieferanten, die verschiedene technische Bauteile und
 Hilfsmittel liefern, auf Zuverlässigkeit ihrer gelieferten Artikel
 untersucht werden.
